@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+python-dateutil
+python-dotenv
+anthropic
+jinja2

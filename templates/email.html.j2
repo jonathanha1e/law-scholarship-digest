@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"></head>
+<body style="font-family: -apple-system, Helvetica, Arial, sans-serif; color: #222; max-width: 640px; margin: 0 auto; padding: 16px;">
+  <p style="font-size: 13px; color: #555; background: #f4f4f4; padding: 12px; border-radius: 6px;">
+    This digest is compiled automatically with AI assistance from listings on the
+    <a href="https://www.accesslex.org/databank">AccessLex Databank</a>.
+    Always verify eligibility, deadlines, and application steps on the official
+    scholarship page before applying.
+  </p>
+
+  <h1 style="font-size: 20px;">This Week's Law School Scholarships</h1>
+
+  {% for item in featured %}
+  <div style="margin-bottom: 24px; padding-bottom: 16px; border-bottom: 1px solid #eee;">
+    <h2 style="font-size: 16px; margin-bottom: 4px;">{{ item.name }}</h2>
+    <p style="margin: 4px 0;">{{ item.friendly_description }}</p>
+    <p style="margin: 4px 0; font-size: 14px; color: #444;">
+      <strong>Eligibility:</strong> {{ item.eligibility_summary }}<br>
+      <strong>Amount:</strong> {{ item.amount }}<br>
+      <strong>Deadline:</strong> {{ item.deadline_display }}<br>
+      <strong>Sponsor:</strong> {{ item.sponsor }}
+    </p>
+    <p style="margin: 8px 0 0;">
+      <a href="{{ item.link }}">View on AccessLex / apply &rarr;</a>
+    </p>
+  </div>
+  {% endfor %}
+
+  <p style="font-size: 12px; color: #999;">
+    Generated on {{ generated_at }}.
+  </p>
+</body>
+</html>
