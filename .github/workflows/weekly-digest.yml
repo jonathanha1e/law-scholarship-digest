@@ -50,3 +50,4 @@ jobs:
             git commit -m "chore: update sent scholarships state"
             git push
           fi
+
