@@ -1,3 +1,44 @@
 {
-  "sent": {}
+  "sent": {
+    "https://www.accesslex.org/scholarship/ashley-stewart-memorial-scholarship": {
+      "first_sent": "2026-07-05",
+      "last_sent": "2026-07-05",
+      "name": "Ashley Stewart Memorial Scholarship"
+    },
+    "https://www.accesslex.org/scholarship/california-change-lawyers-scholarship": {
+      "first_sent": "2026-07-05",
+      "last_sent": "2026-07-05",
+      "name": "California Change Lawyers Scholarship"
+    },
+    "https://www.accesslex.org/scholarship/family-first-scholarship": {
+      "first_sent": "2026-07-05",
+      "last_sent": "2026-07-05",
+      "name": "Family First Scholarship"
+    },
+    "https://www.accesslex.org/scholarship/fetal-alcohol-spectrum-disorder-scholarship": {
+      "first_sent": "2026-07-05",
+      "last_sent": "2026-07-05",
+      "name": "Fetal Alcohol Spectrum Disorder Scholarship"
+    },
+    "https://www.accesslex.org/scholarship/judge-iravani-sani-public-interest-scholarship": {
+      "first_sent": "2026-07-05",
+      "last_sent": "2026-07-05",
+      "name": "Judge Iravani-Sani Public Interest Scholarship"
+    },
+    "https://www.accesslex.org/scholarship/oconnor-parsons-lane-noble-medical-malpractice-advocacy-scholarship-0": {
+      "first_sent": "2026-07-05",
+      "last_sent": "2026-07-05",
+      "name": "O'Connor, Parsons, Lane & Noble Medical Malpractice Advocacy Scholarship"
+    },
+    "https://www.accesslex.org/scholarship/salvado-law-dream-chaser-scholarship": {
+      "first_sent": "2026-07-05",
+      "last_sent": "2026-07-05",
+      "name": "Salvado Law Dream Chaser Scholarship"
+    },
+    "https://www.accesslex.org/scholarship/samer-habbas-associates-scholarship": {
+      "first_sent": "2026-07-05",
+      "last_sent": "2026-07-05",
+      "name": "Samer Habbas & Associates Scholarship"
+    }
+  }
 }
